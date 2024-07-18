@@ -117,7 +117,7 @@ const Contact = () => {
                     type="radio"
                     id="general query"
                     value="General Enquiry"
-                    className="accent-DarkGreen h-4 w-4"
+                    className="accent-DarkGreen h-5 w-5"
                   />
                   <p>General Enquiry</p>
                 </label>
@@ -127,7 +127,7 @@ const Contact = () => {
                     type="radio"
                     value="Support Request"
                     id="support request"
-                    className="accent-DarkGreen h-4 w-4"
+                    className="accent-DarkGreen h-5 w-5"
                   />
                   <p>Support Request</p>
                 </label>
